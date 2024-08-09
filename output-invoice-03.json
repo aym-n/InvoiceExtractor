@@ -1,2 +1,18 @@
-{"Customer Details": {"Bill To:": "TEST\nHyderabad, TELANGANA, 500089\nPh: 9108239284\ntest@gmail.com"}, "Product Details": {"Item": "WASTE AND SCRAP OF STAINLESS STEEL", "HSN:": "72042190", "Rate": "95.00", "Quantity": "6,790 KGS", "Total Amount": "6,45,050.00"}, "Total Amount": "7,68,771.00"}
-
+{
+    "Customer Details": {
+      "Customer Name": "TEST",
+      "Billing Address": "Hyderabad, TELANGANA, 500089",
+      "Phone": "9108239284",
+      "Email": "test@gmail.com",
+      "Shipping Address": "Hyderabad, TELANGANA, 500089"
+    },
+    "Product Details": [
+      {
+        "Description": "WASTE AND SCRAP OF STAINLESS STEEL",
+        "Quantity": "6,790 KGS",
+        "Rate": "95.00",
+        "Amount": "6,45,050.00"
+      }
+    ],
+    "Total Amount": "7,68,771.00"
+  }
